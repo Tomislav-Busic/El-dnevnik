@@ -1,0 +1,123 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("../images/classroom.jpg");
+    background-size: cover;
+}
+
+.login-form {
+    background-color: rgba(255, 255, 255, 0.5);
+    text-align: center;
+    padding: 30px;
+    max-width: 400px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.login-form h1 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
+.login-form input {
+    display: block;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.login-form button {
+    display: block;
+    width: 130px;
+    margin: auto;
+}
+
+.main-menu {
+    background-color: burlywood;
+    padding: 15px;
+}
+
+.main-menu h1 {
+    margin-top: 0;
+    font-size: 28px;
+}
+
+.main-menu a {
+    font-size: 20px;
+    margin-right: 20px;
+    text-decoration: none;
+    color: red;
+}
+
+.register-form {
+    background-color: rgba(255, 255, 255, 0.7);
+    max-width: 400px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.register-form input {
+    width: 100%;
+    display: block;
+    margin-bottom: 15px;
+}
+
+.message-success {
+    background-color: cyan;
+    padding: 10px;
+}
+
+.table {
+    width: 500px;
+    background-color: darkgrey;
+}
+
+.table tr th {
+    text-align: left;
+    border-bottom: 2px solid black;
+}
+
+.table tr td {
+    border-bottom: 1px solid #fff;
+}
+
+.table tr td a {
+    text-decoration: none;
+}
+
+.ocjene {
+    background-color: white;
+    padding: 20px;
+}
+
+.ocjene a {
+    text-decoration: none;
+    color: red;
+}
+
+.ocjena-form {
+    max-width: 400px;
+    background-color: white;
+    padding: 30px;
+}
+
+.ocjena-form input {
+    margin-right: 20px;
+}
+
+.uplo-dom {
+    background-color: darkgrey;
+    padding: 30px;
+}
+
+.log-uce {
+    text-decoration: none;
+    font-size: 30px;
+    color: red;
+}
+
+.vidi-ocjene a {
+    text-decoration: none;
+    color: red;
+}
